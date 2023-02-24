@@ -1,4 +1,4 @@
-# CS-3251
+# CS-3251: Computer Networking I
 
 **Course Objectives:**
 * Various layers of computer networking
